@@ -1,4 +1,4 @@
 Aplicativo Amigo de Sangue em desenvolvimento para o TCC.
 
-![Login](https://github.com/user-attachments/assets/dfb4eae2-a865-4e7a-8977-dcb3be84e37f) ![Cadastro 1](https://github.com/user-attachments/assets/50865af8-8d24-4673-848b-0c29fb153d29)
-![Cadastro 2](https://github.com/user-attachments/assets/ae3c9c7b-99b2-493a-b7a6-60810cbe6708) ![Cadastro 3](https://github.com/user-attachments/assets/cf103d5b-8ee1-4ade-aeb9-421496d6fc51)
+![Login](https://github.com/user-attachments/assets/7b1fbc91-39c8-4028-9899-074dd2d53472) ![Cadastro 1](https://github.com/user-attachments/assets/ab2c343c-612b-4ab8-ae44-aad6b85d8ed4)
+![Cadastro 2](https://github.com/user-attachments/assets/c66600c1-5f61-45e2-b1b7-685a9b7a56e5) ![Cadastro 3](https://github.com/user-attachments/assets/94338a19-ad72-4361-8eca-00f2c3202250)
