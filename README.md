@@ -1,4 +1,4 @@
-Aplicativo Amigo de Sangue desenvolvido durante o TCC.
+Aplicativo Amigo de Sangue em desenvolvimento para o TCC.
 
 ![Login](https://github.com/user-attachments/assets/dfb4eae2-a865-4e7a-8977-dcb3be84e37f)
 ![Cadastro 1](https://github.com/user-attachments/assets/50865af8-8d24-4673-848b-0c29fb153d29)
