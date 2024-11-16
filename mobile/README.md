@@ -20,7 +20,7 @@
 - Execute o comando 'sdkmanager --list' para ver se foi instalado
 - Se o comando não funcionar, reinicie o computador para atualizar as variáveis de ambiente
 
-## 4- Instalando o aplicativo no celular via USB
+## 4 - Instalando o aplicativo no celular via USB
 - Configure o celular (ative o modo desenvolvedor e ative a depuração USB)
 - Com o celular configurado e conectado no USB, execute 'npx expo run:android'
 - Na primeira vez, vai demorar (cerca de 1h30min)
