@@ -1,7 +1,7 @@
 
 # 🩸 Amigo de Sangue
 
-**Amigo de Sangue** é um aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC) por estudantes da ETEC de Guaianazes, que fundaram a **startup Apex** ([https://github.com/APEX-LTDA](https://github.com/APEX-LTDA)) com o propósito de desenvolver esse projeto e promover soluções tecnológicas com impacto social.
+**Amigo de Sangue** é um aplicativo mobile desenvolvido como Trabalho de Conclusão de Curso (TCC) por estudantes da ETEC de Guaianazes, que fundaram a **startup Apex** ([https://github.com/APEX-LTDA](https://apex-ltda.github.io/apex-site/)) com o propósito de desenvolver esse projeto e promover soluções tecnológicas com impacto social.
 
 O objetivo do app é facilitar e incentivar a doação de sangue, conectando doadores a hemocentros e bancos de sangue, promovendo uma gestão mais eficiente, segura e acessível das doações.
 
