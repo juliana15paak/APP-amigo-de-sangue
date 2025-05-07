@@ -16,8 +16,6 @@ O objetivo do app é facilitar e incentivar a doação de sangue, conectando doa
 
 ## 📸 Capturas de Tela
 
-<img src="https://github.com/user-attachments/assets/161631d2-cd13-4082-84eb-2731cce6e81a" width="300"/>  
-<img src="https://github.com/user-attachments/assets/8b959d71-f1b1-4789-b909-c51b4f467869" width="300"/>
 ![home](https://github.com/user-attachments/assets/161631d2-cd13-4082-84eb-2731cce6e81a)
 ![home-logado](https://github.com/user-attachments/assets/8b959d71-f1b1-4789-b909-c51b4f467869)
 ![informacoes](https://github.com/user-attachments/assets/db96af88-2ebd-45b7-bf74-d08dd3013deb)
