@@ -11,7 +11,6 @@ O objetivo do app é facilitar e incentivar a doação de sangue, conectando doa
 - **Carteirinha Digital**: Geração de carteirinha de doador em PDF, substituindo a versão física.
 - **Localização de Bancos de Sangue**: Mostra os bancos de sangue mais próximos por geolocalização.
 - **Notificações Personalizadas**: Alertas sobre campanhas de doação e necessidades específicas de tipos sanguíneos.
-- **Agendamento de Doações**: Permite marcar doações diretamente pelo app.
 - **Informações Educativas**: Conteúdo sobre a importância da doação e orientações para doadores.
 
 ## 📸 Capturas de Tela
