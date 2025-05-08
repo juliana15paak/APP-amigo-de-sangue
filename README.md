@@ -26,11 +26,11 @@ O objetivo do app é facilitar e incentivar a doação de sangue, conectando doa
 ![carteirinha-blue](https://github.com/user-attachments/assets/1a32b9e6-69c3-47ec-9861-12c017ff0881)
 ![carteirinha-red-horizontal](https://github.com/user-attachments/assets/981ce24d-1aa8-4f48-b820-09d322306643)
 ![carteirinha-blue-horizontal](https://github.com/user-attachments/assets/5045cb3e-26b9-407b-b197-f63d96cf6f67)
-![tela-informacoes](https://github.com/user-attachments/assets/9da83cdf-7683-41e8-a0e5-8ca8044718fd)
+![tela-informacoes](https://github.com/user-attachments/assets/fa8f09ea-8f02-49c4-b581-67c3dacaa1c4)
 ![perfil](https://github.com/user-attachments/assets/15d05b5c-26f0-4279-8b5a-cd8c1ffe25b6)
 ![info1](https://github.com/user-attachments/assets/25293054-2c92-4543-8f58-7ea4289c7f40)
-![info2](https://github.com/user-attachments/assets/2c35360b-758a-4827-be6b-42414af16362)
-![info3](https://github.com/user-attachments/assets/9e1a66c7-3651-4b92-b034-a55d765f5fb6)
+![info2](https://github.com/user-attachments/assets/f7ce592e-f544-41b9-8af0-8d3b7481c1b9)
+![info3](https://github.com/user-attachments/assets/b0ad870f-0d85-4dda-965b-f031c76f85fd)
 
 ## 📄 Documentação
 
