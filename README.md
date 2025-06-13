@@ -16,7 +16,7 @@ O objetivo do app é facilitar e incentivar a doação de sangue, conectando doa
 ## 📸 Capturas de Tela
 
 ![home](https://github.com/user-attachments/assets/161631d2-cd13-4082-84eb-2731cce6e81a)
-![home-logado](https://github.com/user-attachments/assets/8b959d71-f1b1-4789-b909-c51b4f467869)
+![home-logado](https://github.com/user-attachments/assets/124c7d55-21bf-44d4-ae16-72eccce720df)
 ![informacoes](https://github.com/user-attachments/assets/db96af88-2ebd-45b7-bf74-d08dd3013deb)
 ![cadastro-etapa-1](https://github.com/user-attachments/assets/6a7cc8e9-996a-432d-8c14-44b1c02022e8)
 ![cadastro-etapa-2](https://github.com/user-attachments/assets/f0e33360-183b-4d61-955e-e1fd60454e2f)
@@ -31,7 +31,8 @@ O objetivo do app é facilitar e incentivar a doação de sangue, conectando doa
 ![info1](https://github.com/user-attachments/assets/587a7c66-fd09-4aba-974e-1aa5349b26b7)
 ![info2](https://github.com/user-attachments/assets/f7ce592e-f544-41b9-8af0-8d3b7481c1b9)
 ![info3](https://github.com/user-attachments/assets/b0ad870f-0d85-4dda-965b-f031c76f85fd)
-![menu](https://github.com/user-attachments/assets/e0b30c17-fd11-4ea6-a967-c56859a84803)
+![historico-doacoes](https://github.com/user-attachments/assets/738736aa-1b25-41a4-afe5-2eb4eeaf97b9)
+![menu](https://github.com/user-attachments/assets/c3935b0d-3ce6-43d6-bc21-2b65e5df4b3b)
 
 ## 📄 Documentação
 
